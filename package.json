@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "0.55.4",
+    "react-native": "0.70.2",
     "react-native-easy-gestures": "^2.2.4",
     "react-native-image-picker": "^0.26.10",
     "react-native-router-flux": "^4.0.6"
